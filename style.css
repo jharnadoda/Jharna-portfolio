@@ -158,7 +158,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/ghc-bg.png");
+    background: url("images/banner.jpeg");
     height: 100vh;
     color: #fff;
     min-height: 500px;
